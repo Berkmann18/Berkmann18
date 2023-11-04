@@ -66,8 +66,10 @@ You can find me on:
     📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
   </li> -->
   <li>⚡ Fun fact: <strong>I have more hobby experience than commercial experience</strong></li>
+  <li>
+    🔭 I'm currently working on a Disc Golf Putting app for a club.
+  </li>
 </ul>
-- 🔭 I'm currently working on a Disc Golf Putting app for a club.
 
 ### Typical tech stacks
 #### Frontend
