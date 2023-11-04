@@ -40,6 +40,8 @@ You can find me on:
     <!-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/kubernetes.svg" width="24px" alt="K8s"> -->
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googleplay.svg" width="24px" alt="Google Play">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vite.svg" width="24px" alt="Vite">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vitest.svg" width="24px" alt="Vitest">
   </li>
   <li>
     🌱 I plan on learning:<br>
