@@ -1,6 +1,6 @@
 # Maximilian Berkmann
 
-Hey there, I'm a British MSci+YII CompSci graduate and a freelancer working on web apps, CLI tools and software.
+Hey there, I'm a British MSci+YII CompSci graduate and a full-time SWE mostly working on web apps and CLI tools.
 
 You can find me on:
 <p>
@@ -21,25 +21,25 @@ You can find me on:
   <li>Fluent in 🇬🇧 and 🇫🇷.</li>
   <li>
     👨‍💻 I'm getting my hands dirty with:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/quasar.svg" width="24px" alt="Quasar">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/jirasoftware.svg" width="24px" alt="Jira Software">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TypeScript">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/azuredevops.svg" width="24px" alt="Azure DevOps">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ionic.svg" width="24px" alt="Ionic">
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/aws.svg" width="24px" alt="AWS">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/angular.svg" width="24px" alt="Angular">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/dot-net.svg" width="24px" alt=".NET Core">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react.svg" width="24px" alt="React">
+    <!-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/dot-net.svg" width="24px" alt=".NET Core"> -->
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gitlab.svg" width="24px" alt="GitLab">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/fastify.svg" width="24px" alt="Fastify">
+    <!-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/fastify.svg" width="24px" alt="Fastify"> -->
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/capacitor.svg" width="24px" alt="Capacitor">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/firebase.svg" width="24px" alt="Firebase">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/rancher.svg" width="24px" alt="Rancher Desktop">
   </li>
   <li>
     🌱 I'm currently learning:<br>
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/flutter.svg" width="24px" alt="Flutter">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/xero.svg" width="24px" alt="Xero">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
-    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/backstage.svg" width="24px" alt="Backstage">
+    <!-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/docker.svg" width="24px" alt="Docker">
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/kubernetes.svg" width="24px" alt="K8s"> -->
+    <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googleplay.svg" width="24px" alt="Google Play">
   </li>
   <li>
     🌱 I plan on learning:<br>
@@ -53,7 +53,7 @@ You can find me on:
     <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/prometheus.svg" width="24px" alt="Prometheus">
   </li>
   <li>
-    👯 I'm looking to collaborate on <a href="https://github.com/Berkmann18/Compriz">Compriz</a>
+    👯 I'm looking to collaborate on some Disc Golf (Valley) projects.
   </li>
   <li>
     🤝 I'm looking for help with <a href="https://github.com/all-contributors/ac-learn">`ac-learn`</a> and <a href="https://github.com/Berkmann18/json-fixer">`json-fixer`</a>.
@@ -65,34 +65,43 @@ You can find me on:
   <!-- <li>
     📝 I often write articles on <a href="https://medium.com/@B.Max">https://medium.com/@B.Max</a>
   </li> -->
-  <li>⚡ Fun fact: <strong>I have more hobby experience over commercial experience</strong></li>
+  <li>⚡ Fun fact: <strong>I have more hobby experience than commercial experience</strong></li>
 </ul>
-<!-- - 🔭 I'm currently working on [MBerkmann](https://github.com/Berkmann18/mberkmann) -->
+- 🔭 I'm currently working on a Disc Golf Putting app for a club.
 
 ### Typical tech stacks
 #### Frontend
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/react.svg" width="24px" alt="React"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/ionic.svg" width="24px" alt="Ionic">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gridsome.svg" width="24px" alt="Gridsome"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vue-dot-js.svg" width="24px" alt="Vue.js"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vuetify.svg" width="24px" alt="Vuetify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/sass.svg" width="24px" alt="SCSS">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/html5.svg" width="24px" alt="HTML5"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/css3.svg" width="24px" alt="CSS3"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/javascript.svg" width="24px" alt="JS"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/typescript.svg" width="24px" alt="TS">
 
 ### Backend
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/node-dot-js.svg" width="24px" alt="Node.js"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/express.svg" width="24px" alt="Express.js">
 
+### Design
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gimp.svg" width="24px" alt="GIMP">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/framer.svg" width="24px" alt="Framer">
+
+### Testing
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/jest.svg" width="24px" alt="Jest">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/cypress.svg" width="24px" alt="Cypress">
 
 ### Others
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/python.svg" width="24px" alt="Python"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gnubash.svg" width="24px" alt="Bash">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/markdown.svg" width="24px" alt="Markdown">
 
 ### Tools
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/netlify.svg" width="24px" alt="Netlify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/heroku.svg" width="24px" alt="Heroku">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/capacitor.svg" width="24px" alt="Capacitor">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/netlify.svg" width="24px" alt="Netlify"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/firebase.svg" width="24px" alt="Firebase">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/visualstudiocode.svg" width="24px" alt="VSCode"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/vim.svg" width="24px" alt="Vim">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/github.svg" width="24px" alt="GitHub"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/googledrive.svg" width="24px" alt="Google Drive">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gitkraken.svg" width="24px" alt="GitKraken">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/slack.svg" width="24px" alt="Slack">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/trello.svg" width="24px" alt="Trello">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/git.svg" width="24px" alt="Git">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/discord.svg" width="24px" alt="Discord"> <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/slack.svg" width="24px" alt="Slack">
+- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/clickup.svg" width="24px" alt="ClickUp">
 - <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/npm.svg" width="24px" alt="NPM">
-- <img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/gimp.svg" width="24px" alt="GIMP">
+
 ### OS
-<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/archlinux.svg" width="24px" alt="ArchLinux">
+<img src="https://github.com/Berkmann18/Berkmann18/blob/master/assets/popos.svg" width="24px" alt="Pop!_OS">
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Berkmann18&show_icons=true&hide_border=true&theme=tokyonight)
 
